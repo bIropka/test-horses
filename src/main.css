@@ -1,0 +1,15 @@
+h1, h2, h3, h4, h5, ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  width: 100%;
+  min-width: 380px;
+  overflow: hidden;
+}
